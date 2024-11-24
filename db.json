@@ -1,0 +1,100 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Dookudu",
+        "category": "Action",
+        "description": "An action-packed thriller.",
+        "url": "https://www.youtube.com/embed/M5rXgWKooz0?si=1zxEnDudt9EUlWkM",
+        "image":"https://www.cinejosh.com/gallereys/movies/normal/dookudu_movie_wallpapers_1908110424/dookudu_movie_wallpapers_1908110424_018.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Snehitudu",
+        "category": "Drama",
+        "description": "A heartwarming story.",
+        "url": "https://www.youtube.com/embed/zVm9IFaAJlo?si=7pkRGaDCfUEh784G",
+        "image":"https://i.ytimg.com/vi/WOHszkDahPQ/maxresdefault.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Aagadu",
+        "category": "Drama",
+        "description": "A heartwarming story.",
+        "url": "https://www.youtube.com/embed/hravgftk9gQ?si=CnqAefWnGhl9bAmC",
+        "image":"https://i.ytimg.com/vi/hravgftk9gQ/maxresdefault.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Mirchi",
+        "category": "Family-Drama",
+        "description": "A message oriented family story.",
+        "url": "https://www.youtube.com/embed/Tpwu8WVtG-s?si=M21_DUgiodKoW0my",
+        "image":"https://resizing.flixster.com/jlUTOz0qK2dl03nRXiKC16G23TU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9738357_v_h10_aa.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Bahubali The Beginning",
+        "category": "Periodic-Drama",
+        "description": "A Periodic action-drama story.",
+        "url": "https://www.youtube.com/embed/DHf9XuY8QpQ?si=VBqNbM-N8TCKeDXQ",
+        "image":"https://i.ytimg.com/vi/pcl1r2qTla8/maxresdefault.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Bimbisara",
+        "category": "periodic-Drama",
+        "description": "A heartwarming story.",
+        "url": "https://www.youtube.com/embed/xrK9sISjgAE?si=MXhaQrKjllXGuvS6",
+        "image":"https://www.telugubulletin.com/wp-content/uploads/2022/08/Bimbisara-1.jpg"
+      },
+      {
+        "id": 7,
+        "title": "2.0",
+        "category": ["Sci-fi","Thriller"],
+        "description": "A thrilling story.",
+        "url": "https://www.youtube.com/embed/ZFjpBz5-h9A?si=BWcA28YpXHaWdcdn",
+        "image":"https://static.moviecrow.com/gallery/20161121/102907-15107477_535067540030483_8432194719764099309_n.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Doctor",
+        "category": ["Action","Comedy"],
+        "description": "A thrilling action entertainer.",
+        "url": "https://www.youtube.com/embed/p644RWgjFrE?si=bmwMnesOUAMitqWh",
+        "image":"https://live.staticflickr.com/65535/50070056113_96ba46e627_h.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Enugu",
+        "category": ["Action"],
+        "description": "A thrilling action entertainer.",
+        "url": "https://www.youtube.com/embed/deqJOfkVsR4?si=h0cvqyxn5u2vWJdL",
+        "image":"https://c.saavncdn.com/000/Enugu-Telugu-2022-20220704213221-500x500.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Eagle",
+        "category": ["Action","thriller"],
+        "description": "A thrilling action entertainer.",
+        "url": "https://www.youtube.com/embed/kHL8w22Fm1g?si=-2HyLFOoSUh56b-M",
+        "image":"https://www.telugubulletin.com/wp-content/uploads/2024/02/images-33-650x441.jpeg"
+      },
+      {
+        "id": 11,
+        "title": "Viswam",
+        "category": ["Action","Comedy"],
+        "description": "A thrilling action entertainer.",
+        "url": "https://www.youtube.com/embed/w0dSSrLd3Eo?si=2ZmEFyG4Mn6TaqC0",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jMFF71FnnBYfd7k1PVNFKyampTF152wk9A&s"
+      },
+      {
+        "id": 12,
+        "title": "Legend",
+        "category": ["Action","Drama"],
+        "description": "A thrilling action entertainer.",
+        "url": "https://www.youtube.com/embed/Px5nHPQZ-1o?si=y5wjJnVetZiA30lQ",
+        "image":"https://sund-images.sunnxt.com/27812/640x360_bdc4bf86-7d22-4a03-a961-83e656331b06.jpg"
+      }
+    ]
+  }
